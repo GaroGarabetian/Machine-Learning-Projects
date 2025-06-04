@@ -3,7 +3,7 @@ Shoaib, M., Bosch, S., Incel, O. D., Scholten, H., & Havinga, P. J. (2014). Fusi
 Shoaib, M., Scholten, H., & Havinga, P. J. (2013, December). Towards physical activity recognition using smartphone sensors. In Ubiquitous intelligence and computing, 2013 ieee 10th international conference on and 10th international conference on autonomic and trusted computing (uic/atc) (pp. 80-87). IEEE.
 
 
-Important note: In section 3 (data collection) in our paper, the term running is mistakenly used for the jogging. So please only consider the jogging activity.
+Important note: In section 3 (data collection), the term running is mistakenly used for the jogging. So please only consider the jogging activity.
 
 In the data collection experiments, we collected data for 7 physical activities.
 These are walking, sitting, standing, jogging, biking, walking upstairs and walking downstairs,
